@@ -2,7 +2,7 @@
 
 **ML Cryptanalysis Toolkit** is a Python-based GUI application that enables encryption, decryption, and machine learning-based key prediction for classical ciphers. Built with PyQt5 and scikit-learn, this tool is designed to help study cryptanalysis using AI.
 
-![screenshot](screenshot.png)
+![screenshot](Decrypt.png)
 
 ---
 
